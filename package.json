@@ -1,0 +1,12 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "Personal Prettier config",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:BenjaminRhys-Davies/ts-design-system.git"
+  },
+  "author": "Benjamin Rhys-Davies <brhysdavies@gmail.com>",
+  "license": "ISC"
+}
