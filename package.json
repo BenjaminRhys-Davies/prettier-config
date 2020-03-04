@@ -5,7 +5,7 @@
   "main": "index.json",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/BenjaminRhys-Davies/prettier-config.git"
+    "url": "git@github.com:BenjaminRhys-Davies/prettier-config.git"
   },
   "author": "Benjamin Rhys-Davies <brhysdavies@gmail.com>",
   "license": "ISC"
